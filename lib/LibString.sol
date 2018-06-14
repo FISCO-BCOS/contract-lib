@@ -1,9 +1,10 @@
+
 /**
-* file LibString.sol
-* author liaoyan
-* time 2016-11-29
-* desc the defination of LibString contract
-*/
+ * @file: LibString
+ * @author: fisco-dev
+ * 
+ * @date: 2018
+ */
 
 pragma solidity ^0.4.11;
 

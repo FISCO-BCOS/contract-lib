@@ -1,4 +1,3 @@
-
 /**
  * @file: demoSafeMathTest.js
  * @author: fisco-dev

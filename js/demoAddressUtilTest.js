@@ -1,4 +1,3 @@
-
 /**
  * @file: demoAddressUtilTest.js
  * @author: fisco-dev

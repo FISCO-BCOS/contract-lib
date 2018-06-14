@@ -2,7 +2,7 @@
  * @file: transactionManager.js
  * @author: fisco-dev
  * 
- * @date: 2017
+ * @date: 2018
  */
 
 var Tx = require('./transactionObject.js');

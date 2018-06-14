@@ -1,10 +1,11 @@
-/**
-* file LibInt.sol
-* author liaoyan
-* time 2016-11-29
-* desc the defination of LibInt libary
-*/
 
+/**
+ * @file: LibInt.sol
+ * @author: fisco-dev
+ * 
+ * @date: 2018
+ */
+ 
 pragma solidity ^0.4.11;
 
 /**

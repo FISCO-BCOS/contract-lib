@@ -2,5 +2,5 @@
  * @file: signTransaction.js
  * @author: fisco-dev
  * 
- * @date: 2017
+ * @date: 2018
  */

@@ -1,9 +1,13 @@
-pragma solidity ^0.4.11;
 
 /**
- * @title LibAddressUtils
- * @dev Utility library of inline functions on addresses
+ * @file: LibAddressUtil.sol
+ * @author: fisco-dev
+ * 
+ * @date: 2018
  */
+
+pragma solidity ^0.4.11;
+
 library LibAddressUtil {
 
   /**

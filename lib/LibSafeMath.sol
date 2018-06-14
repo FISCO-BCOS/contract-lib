@@ -1,9 +1,12 @@
+/**
+ * @file: LibSafeMath.sol
+ * @author: fisco-dev
+ * 
+ * @date: 2018
+ */
+
 pragma solidity ^0.4.11;
 
-/**
- * @title LibSafeMath
- * @dev Math operations with safety checks that throw on error
- */
 library LibSafeMath {
 
   /**

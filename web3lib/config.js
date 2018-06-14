@@ -1,5 +1,10 @@
 
-
+/**
+ * @file: monitor.js
+ * @author: fisco-dev
+ * 
+ * @date: 2018
+ */
 
 var proxy="http://127.0.0.1:8545";
 
