@@ -2,7 +2,7 @@
  * @file: utils.js
  * @author: fisco-dev
  * 
- * @date: 2017
+ * @date: 2018
  */
 
 const secp256k1 = require('secp256k1')

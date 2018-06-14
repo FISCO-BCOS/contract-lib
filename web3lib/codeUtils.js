@@ -2,12 +2,12 @@
  * @file: codeUtils.js
  * @author: fisco-dev
  * 
- * @date: 2017
+ * @date: 2018
  */
 
 
 /*
-编码工具类，包含交易编码及日志编码
+encode and decode tools
 */
 var Web3 = require('web3');
 var sha3 = require("./sha3")
@@ -15,8 +15,7 @@ var Event = require('web3/lib/web3/event');
 var Coder = require('web3/lib/solidity/coder');
 
 /*
-#交易编码
-###参数编码
+code function parameters
 */
 function codeParams(types,params)
 {
@@ -32,7 +31,7 @@ function decodeParams(types,bytes)
 	return code_ret;
 }
 /*
-###函数名编码
+code function name
 */
 function codeFun(fun_str)
 {
@@ -43,7 +42,7 @@ function codeFun(fun_str)
 }
 
 /*
-###交易数据编码
+code transaction data
 */
 function codeTxData(fun_Str,types,params)
 {

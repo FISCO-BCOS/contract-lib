@@ -1,4 +1,3 @@
-
 /**
  * @file: demoStringTest.js
  * @author: fisco-dev

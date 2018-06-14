@@ -2,7 +2,7 @@
  * @file: transactionObject.js
  * @author: fisco-dev
  * 
- * @date: 2017
+ * @date: 2018
  */
 
 const ethUtil = require('./utils.js')
